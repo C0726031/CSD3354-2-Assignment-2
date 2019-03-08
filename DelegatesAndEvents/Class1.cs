@@ -8,5 +8,6 @@ namespace DelegatesAndEvents
 {
     public class Class1
     {
+
     }
 }
